@@ -1,0 +1,79 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://iv.pe/RN7" group-title="Canais | Globo",Globo SP 
+http://csrv.me:80/live/nhDuB/nWuen/1614.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/uID" group-title="Canais | Abertos",RecordTV SP 
+http://csrv.me:80/live/nhDuB/nWuen/1743.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/doO" group-title="Canais | Abertos",SBT 
+http://csrv.me:80/live/nhDuB/nWuen/1737.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/xsU" group-title="Canais | Variedades",A&E 
+http://csrv.me:80/live/nhDuB/nWuen/1906.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/vSY" group-title="Canais | Filmes e Séries",AMC 
+http://csrv.me:80/live/nhDuB/nWuen/1904.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/8yz" group-title="Canais | Filmes e Séries",Canal Sony 
+http://csrv.me:80/live/nhDuB/nWuen/1882.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/aQa" group-title="Canais | Infantis",Cartoon Network 
+http://csrv.me:80/live/nhDuB/nWuen/1879.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/xlD" group-title="Canais | Infantis",Disney Channel 
+http://csrv.me:80/live/nhDuB/nWuen/1853.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/R6D" group-title="Canais | Infantis",Nickelodeon
+http://csrv.me:80/live/nhDuB/nWuen/1768.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/pUK" group-title="Canais | Filmes e Séries",Cinemax 
+http://csrv.me:80/live/nhDuB/nWuen/1877.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/ohU" group-title="Canais | Variedades",Comedy Central 
+http://csrv.me:80/live/nhDuB/nWuen/1873.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/nHY" group-title="Canais | Variedades",E! HD
+http://csrv.me:80/live/nhDuB/nWuen/1849.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/F2S" group-title="Canais | Filmes e Séries",Fox HD
+http://csrv.me:80/live/nhDuB/nWuen/1835.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/QyU" group-title="Canais | Filmes e Séries",Fox Premium 1 HD
+http://csrv.me:80/live/nhDuB/nWuen/1831.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/lvs" group-title="Canais | Filmes e Séries",Megapix HD
+http://csrv.me:80/live/nhDuB/nWuen/1785.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/8Td" group-title="Canais | Filmes e Séries",Space HD
+http://csrv.me:80/live/nhDuB/nWuen/1732.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/C9E" group-title="Canais | Variedades",Multishow HD
+http://csrv.me:80/live/nhDuB/nWuen/1781.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/Csv" group-title="Canais | Telecine",Telecine Action HD
+http://csrv.me:80/live/nhDuB/nWuen/1719.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/6c6" group-title="Canais | Telecine",Telecine Cult HD
+http://csrv.me:80/live/nhDuB/nWuen/1717.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/lVw" group-title="Canais | Telecine",Telecine Fun HD
+http://csrv.me:80/live/nhDuB/nWuen/1715.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/GLD" group-title="Canais | Telecine",Telecine Pipoca HD
+http://csrv.me:80/live/nhDuB/nWuen/1713.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/9yf" group-title="Canais | Telecine",Telecine Premium HD
+http://csrv.me:80/live/nhDuB/nWuen/1711.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/lSn" group-title="Canais | Telecine",Telecine Touch HD
+http://csrv.me:80/live/nhDuB/nWuen/1709.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/In0" group-title="Canais | Filmes e Séries",TNT Series HD
+http://csrv.me:80/live/nhDuB/nWuen/1704.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/yfF" group-title="Canais | Filmes e Séries",Warner Channel HD
+http://csrv.me:80/live/nhDuB/nWuen/1681.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/bt3" group-title="Canais | SporTV",SporTV HD
+http://csrv.me:80/live/nhDuB/nWuen/1726.m3u8
